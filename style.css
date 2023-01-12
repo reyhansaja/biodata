@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+}
+.card {
+	margin-left: 15px;
+	margin-top: 20px;
+}
+.card-text {
+	font-family: Times New Roman;
+}
+hr{
+	border: 3px solid black;
+}
+table{
+	border-color: black;
+}
